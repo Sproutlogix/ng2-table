@@ -12,3 +12,4 @@ Custom dropdown buttons are hardcoded. (cellClicked) event now also returns the 
 
 ### Documentation
 Refer the official ng2-table webiste: http://valor-software.github.io/ng2-table/
+
