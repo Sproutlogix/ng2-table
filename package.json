@@ -1,6 +1,6 @@
 {
   "name": "ng2-table-custom",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A custom ng2-table with buttons",
   "devDependencies": {
     "@angular/common": "2.0.1",
@@ -56,7 +56,7 @@
     "ng2-table"
   ],
   "author": "Akhil Kumar <akhil.kumar@sproutlogix.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sproutlogix/ng2-table/issues"
   },
